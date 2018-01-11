@@ -1,3 +1,5 @@
 ## Create Resouce Group in microsoft azure
 
 az group create --name ashish --location centralus
+
+az create vm --name centosVM
